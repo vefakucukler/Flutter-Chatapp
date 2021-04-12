@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "386967741104",
+    "firebase_url": "https://chatapp-2d5ad.firebaseio.com",
+    "project_id": "chatapp-2d5ad",
+    "storage_bucket": "chatapp-2d5ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386967741104:android:f969cc82833a05cc88d175",
+        "android_client_info": {
+          "package_name": "com.wcrop.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386967741104-b23tpnshh4p9d7sieo2fcq8pr8jtn4kb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK-Okn7If22cYI3O6EPIKiUVZrh80eZMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386967741104-b23tpnshh4p9d7sieo2fcq8pr8jtn4kb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "386967741104-4bjhbpajackr30guj9li5ljle45fkfs2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wcrop.chatapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
